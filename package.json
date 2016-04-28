@@ -1,0 +1,29 @@
+{
+  "name": "tv-webpack-svg-loader",
+  "version": "1.0.0-alpha.1",
+  "description": "TV webpack SVG loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tv",
+    "svg",
+    "webpack",
+    "loader"
+  ],
+  "author": "Anton Khlynovskiy <subzey@gmail.com>",
+  "license": "WTFPL",
+  "dependencies": {
+    "sax": "^1.2.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/multicharts/tv-webpack-svg-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/multicharts/tv-webpack-svg-loader/issues"
+  },
+  "homepage": "https://github.com/multicharts/tv-webpack-svg-loader#readme"
+}
